@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Catalog",
+    "\\Catalog\\Dtos",
+    "\\Catalog\\Entities",
+    "\\Catalog\\Repositories"
+  ],
+  "SelectedNode": "\\Catalog\\Repositories\\MongoDbItemsRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
